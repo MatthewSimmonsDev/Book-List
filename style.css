@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color: lightgrey;
+}
+
+.success,
+.error {
+  padding: 5px;
+  margin: 5px 0 15px 0;
+}
+
+.success {
+  background: green;
+}
+
+.error {
+  background: red;
+}
